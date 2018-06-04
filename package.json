@@ -1,0 +1,17 @@
+{
+  "name": "tailwind-boilerplate",
+  "version": "1.0.0",
+  "main": "index.html",
+  "author": "Huy Q. Nguyen",
+  "license": "MIT",
+  "devDependencies": {
+    "browser-sync": "^2.24.4",
+    "gulp": "^3.9.1",
+    "gulp-postcss": "^7.0.1",
+    "gulp-sass": "^4.0.1",
+    "tailwindcss": "^0.5.3"
+  },
+  "dependencies": {
+    "autoprefixer": "^8.6.0"
+  }
+}
